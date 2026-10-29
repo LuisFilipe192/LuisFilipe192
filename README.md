@@ -51,6 +51,8 @@ const developer = {
   name: "Luis Filipe",
   mindset: ["curiosity", "consistency", "problem-solving"],
   currentlyFocusedOn: [
+    "Process automation",
+    "Artificial Intelligence and AI agents"
     "Back-end development",
     "Object-oriented programming",
     "Algorithms and data structures",
