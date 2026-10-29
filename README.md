@@ -82,69 +82,14 @@ const developer = {
 
 </div>
 
-## `04` — Things I've built
-
-<details>
-<summary><strong>⚙️ Accounting workflow automation · Python</strong></summary>
-
-Scripts and workflows designed to reduce repetitive operational tasks, process PDF documents, organize spreadsheet data, and automate interactions with a web-based accounting system.
-
-**Tools:** Python, Pandas, OpenPyXL, pdfplumber, PyAutoGUI.
-
-</details>
-
-<details>
-<summary><strong>🚇 Metro synchronization · C</strong></summary>
-
-A concurrency-focused project using threads, mutexes, and condition variables to coordinate passenger boarding while respecting the vehicle's available capacity.
-
-**Concepts:** C, POSIX threads, mutexes, condition variables, synchronization.
-
-</details>
-
-<details>
-<summary><strong>🐾 AdoçãoPlus+ · Python</strong></summary>
-
-A command-line application for managing animal adoption information, practicing CRUD operations and file-based persistence.
-
-**Concepts:** Python, data organization, CRUD, file I/O.
-
-</details>
-
-<details>
-<summary><strong>☕ Java & object-oriented programming</strong></summary>
-
-Academic exercises and projects focused on classes, separation of responsibilities, layered architecture, data access, and testing.
-
-**Concepts:** Java, OOP, DAO, layered architecture.
-
-</details>
-
-<div align="center">
-
-<a href="https://github.com/LuisFilipe192?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-
-</div>
-
-## `05` — GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuisFilipe192&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipe192&layout=compact&hide_border=true&langs_count=6&bg_color=050816&title_color=67E8F9&text_color=E2E8F0" alt="Most used languages"/>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuisFilipe192&bg_color=050816&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
-</div>
-
-## `06` — Beyond the code
+## `04` — Beyond the code
 
 - **Curiosity:** I like understanding the reasons behind a solution, not just copying it.
 - **Hands-on learning:** I learn by experimenting, building, debugging, and iterating.
 - **Problem-solving:** I enjoy breaking complex tasks into smaller, manageable steps.
 - **Continuous improvement:** Each project is a chance to strengthen my fundamentals.
 
-## `07` — Let's connect
+## `05` — Let's connect
 
 <div align="center">
 
